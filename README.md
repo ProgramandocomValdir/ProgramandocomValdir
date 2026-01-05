@@ -56,12 +56,4 @@ Busco oportunidades de **estágio ou posição júnior**, onde eu possa crescer 
 
 ---
 
-## 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProgramandocomValdir&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramandocomValdir&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
