@@ -10,7 +10,7 @@
   <a href="https://github.com/ProgramandocomValdir" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ProgramandocomValdir-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/valdir-barboza-sales" target="_blank">
+  <a href="https://www.linkedin.com/in/valdir-barboza-sales](https://www.linkedin.com/in/valdir-barboza-sales-266b54160/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Valdir%20Barboza%20Sales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/programandocomvaldir" target="_blank">
@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## 🚀👨🏽‍💻 Sobre mim
 Sou estudante de tecnologia, com foco em **lógica de programação**,  
 **desenvolvimento em Python e JavaScript** e boas práticas de código.
 
@@ -30,10 +30,19 @@ Busco oportunidades de **estágio ou posição júnior**, onde eu possa crescer 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-- Python
-- JavaScript
-- HTML & CSS
-- Git & GitHub
+- 🐍 **Python**
+- 🌐 **JavaScript**
+- 🎨 **HTML & CSS**
+- 🔧 **Git & GitHub**
+
+
+---
+
+## 🎨 Design & UI/UX
+- 🎯 **Figma**
+- 🖌️ **UI Design**
+- 🧠 **UX Design**
+- 📐 **Prototipação de Interfaces**
 
 ---
 
