@@ -10,13 +10,16 @@
   <a href="https://github.com/ProgramandocomValdir" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ProgramandocomValdir-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/valdir-barboza-sales](https://www.linkedin.com/in/valdir-barboza-sales-266b54160/)" target="_blank">
+
+  <a href="https://www.linkedin.com/in/valdir-barboza-sales-266b54160/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Valdir%20Barboza%20Sales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://instagram.com/programandocomvaldir" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@programandocomvaldir-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
