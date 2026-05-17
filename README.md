@@ -1,71 +1,74 @@
-<h1 align="center">👋 Valdir Sales | Desenvolvedor em formação</h1>
+# Olá, Me chamo Valdir Sales! 👋
 
-<p align="center">
-💻 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong><br>
-🚀 Desenvolvedor em formação, focado em evolução constante<br>
-🎯 Apaixonado por resolver problemas com código
-</p>
+💻 Estudante de **Análise e Desenvolvimento de Sistemas** — UNINTER  
+🎯 Apaixonado por resolver problemas com código  
+📍 Curitiba, PR — Brasil  
 
-<p align="center">
-  <a href="https://github.com/ProgramandocomValdir" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-ProgramandocomValdir-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/valdir-barboza-sales-266b54160/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Valdir%20Barboza%20Sales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://instagram.com/programandocomvaldir" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@programandocomvaldir-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Valdir%20Sales-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/valdir-barboza-sales-266b54160/)
+[![GitHub](https://img.shields.io/badge/GitHub-ProgramandocomValdir-181717?style=flat&logo=github)](https://github.com/ProgramandocomValdir)
+[![Instagram](https://img.shields.io/badge/Instagram-@programandocomvaldir-E4405F?style=flat&logo=instagram)](https://instagram.com/programandocomvaldir)
 
 ---
 
-## 🚀👨🏽‍💻 Sobre mim
-Sou estudante de tecnologia, com foco em **lógica de programação**,  
-**desenvolvimento em Python e JavaScript** e boas práticas de código.
+## 👨🏽‍💻 Sobre mim
 
-Aprendo na prática, desenvolvendo projetos reais e evoluindo um pouco todos os dias.  
-Busco oportunidades de **estágio ou posição júnior**, onde eu possa crescer e contribuir.
+Sou estudante de tecnologia focado em **lógica de programação** e **boas práticas de código**.  
+Aprendo na prática, desenvolvendo projetos reais e evoluindo todos os dias.
+
+Busco oportunidade de **estágio ou posição júnior** onde eu possa crescer, contribuir e agregar valor ao time.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-- 🐍 **Python**
-- 🌐 **JavaScript**
-- 🎨 **HTML & CSS**
-- 🔧 **Git & GitHub**
 
-
----
-
-## 🎨 Design & UI/UX
-- 🎯 **Figma**
-- 🖌️ **UI Design**
-- 🧠 **UX Design**
-- 📐 **Prototipação de Interfaces**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
 ## 📌 Projetos em destaque
-🔹 **🎮 Sistema de Cadastro de Jogos** — Python  
-🔹 **🧮 Calculadora de Partidas Ranqueadas** — JavaScript  
-🔹 **🧙 Classes de Jogo – Harry Potter** — JavaScript  
-🔹 **🦸 Classificador de Nível de Herói** — JavaScript  
+
+### 🏦 [Banco Digital — Java](https://github.com/ProgramandocomValdir/banco-digital-java)
+Sistema bancário completo com Conta Corrente e Poupança, transferências, extrato com histórico e menu interativo.  
+Demonstra: **Herança, Polimorfismo, Abstração, Exceções customizadas, Collections e Stream API.**  
+`Java` `POO` `OOP`
+
+### 🎮 [Sistema de Cadastro de Jogos — Python](https://github.com/ProgramandocomValdir/sistema-cadastro-jogos)
+Sistema de cadastro, listagem e busca de jogos via terminal.  
+`Python` `Lógica de programação`
+
+### 🌐 [Fundamentos do Desenvolvimento Web](https://github.com/ProgramandocomValdir/fundamentos-desenvolvimento-software-valdir-sales)
+Projeto acadêmico com HTML, CSS e JavaScript aplicando fundamentos do desenvolvimento front-end.  
+`HTML` `CSS` `JavaScript`
+
+### 🧮 [Calculadora de Partidas Rankeadas](https://github.com/ProgramandocomValdir/calculadora-partidas-rankeadas)
+Desafio da DIO: calcula resultados de partidas e classifica o jogador por ranking.  
+`JavaScript` `Lógica de programação`
 
 ---
 
-## 📊 O que você vai encontrar aqui
-✔ Projetos práticos  
-✔ Evolução contínua em programação  
-✔ Código simples, organizado e comentado  
+## 📊 GitHub Stats
 
-<p align="center">
-<strong>🚀 Construindo minha carreira em tecnologia, um projeto de cada vez.</strong>
-</p>
+<div align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ProgramandocomValdir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramandocomValdir&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 
 ---
 
+## 💬 O que você vai encontrar aqui
+
+✔ Projetos práticos com código organizado e comentado  
+✔ Evolução contínua — commito e aprendo todo dia  
+✔ Foco em boas práticas desde o início da carreira  
+
+---
+
+> 🚀 *Construindo minha carreira em tecnologia, um projeto de cada vez.*
 
