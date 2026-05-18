@@ -1,13 +1,16 @@
-# Olá, Me chamo Valdir Sales! 👋
+# Olá, me chamo Valdir Sales! 👋
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas** — UNINTER  
 🎯 Apaixonado por resolver problemas com código  
 📍 Curitiba, PR — Brasil  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Valdir%20Sales-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/valdir-barboza-sales-266b54160/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-ProgramandocomValdir-181717?style=flat&logo=github)](https://github.com/ProgramandocomValdir)
+
 [![Instagram](https://img.shields.io/badge/Instagram-@programandocomvaldir-E4405F?style=flat&logo=instagram)](https://instagram.com/programandocomvaldir)
 
+[![Email](https://img.shields.io/badge/Email-programandocomvaldir@outlook.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:programandocomvaldir@outlook.com)
 ---
 
 ## 👨🏽‍💻 Sobre mim
@@ -55,10 +58,7 @@ Desafio da DIO: calcula resultados de partidas e classifica o jogador por rankin
 
 ## 📊 GitHub Stats
 
-<div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ProgramandocomValdir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramandocomValdir&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ProgramandocomValdir&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
 
 ---
 
